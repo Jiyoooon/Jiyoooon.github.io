@@ -7,7 +7,7 @@ Github 설명
 
 ## 동영상 업로드
 Github 사용법 정리 동영상입니다.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MScJIgNM1os" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reference
 [검색엔진](https://naver.com)<br>
