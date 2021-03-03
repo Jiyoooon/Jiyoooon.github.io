@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Jiyoooon의 github 홈페이지
+## 프로젝트 주제
+Github 설명
 
-You can use the [editor on GitHub](https://github.com/Jiyoooon/Jiyoooon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 이미지 업로드
+<img src="europe.jpg" width="560"/><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 동영상 업로드
+Github 사용법 정리 동영상입니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6MyHdz_MW3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jiyoooon/Jiyoooon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Reference
+[검색엔진](https://naver.com)<br>
+[Repository-Dilligo](https://Jiyoooon.github.io/dolligo)
