@@ -3,7 +3,7 @@
 Github 설명
 
 ## 이미지 업로드
-<img src="europe.jpg" width="560"/><br>
+<img src="europe2.jpg" width="560"/><br>
 
 ## 동영상 업로드
 Github 사용법 정리 동영상입니다.
